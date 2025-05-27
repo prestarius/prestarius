@@ -34,7 +34,7 @@ I'm a Solution Architect and Fullstack Engineer passionate about modernizing com
 - 🧩 Applied Clean Architecture principles across multiple enterprise projects
 
 #### **AI-Driven Development**
-- 🤖 Integrated AI agents (Copilot, Cursor, Claude, GPT-4, Perplexity) into development workflows
+- 🤖 Integrated AI agents (n8n, taskade) into organization workflows
 - 🧠 Built RAG-based internal knowledge tools for enhanced team productivity
 - 🔬 Prototyped developer agents to automate repetitive tasks
 - 📊 Pioneered AI-assisted documentation and code review processes
